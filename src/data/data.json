@@ -74,6 +74,7 @@
     ]
   },
   "configurations": {
+    "repositoryLink": "https://github.com/reubenjohn/family-tree-editor",
     "title": "My Family Tree Test2",
     "orientation": "vertical",
     "translateX": 637.52783203125,
