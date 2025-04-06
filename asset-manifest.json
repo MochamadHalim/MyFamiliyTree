@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/family-tree-editor/static/css/main.0df9e0f3.chunk.css",
-    "main.js": "/family-tree-editor/static/js/main.3ebc3d40.chunk.js",
-    "main.js.map": "/family-tree-editor/static/js/main.3ebc3d40.chunk.js.map",
-    "runtime-main.js": "/family-tree-editor/static/js/runtime-main.5a7a9abc.js",
-    "runtime-main.js.map": "/family-tree-editor/static/js/runtime-main.5a7a9abc.js.map",
-    "static/css/2.5c17b9f1.chunk.css": "/family-tree-editor/static/css/2.5c17b9f1.chunk.css",
-    "static/js/2.74334acb.chunk.js": "/family-tree-editor/static/js/2.74334acb.chunk.js",
-    "static/js/2.74334acb.chunk.js.map": "/family-tree-editor/static/js/2.74334acb.chunk.js.map",
-    "index.html": "/family-tree-editor/index.html",
-    "precache-manifest.5cb391426bd5826a131cee8ad2b688a4.js": "/family-tree-editor/precache-manifest.5cb391426bd5826a131cee8ad2b688a4.js",
-    "service-worker.js": "/family-tree-editor/service-worker.js",
-    "static/css/2.5c17b9f1.chunk.css.map": "/family-tree-editor/static/css/2.5c17b9f1.chunk.css.map",
-    "static/css/main.0df9e0f3.chunk.css.map": "/family-tree-editor/static/css/main.0df9e0f3.chunk.css.map",
-    "static/js/2.74334acb.chunk.js.LICENSE.txt": "/family-tree-editor/static/js/2.74334acb.chunk.js.LICENSE.txt"
+    "main.css": "/MochamadHalim/MyFamiliyTree/static/css/main.0df9e0f3.chunk.css",
+    "main.js": "/MochamadHalim/MyFamiliyTree/static/js/main.6549155b.chunk.js",
+    "main.js.map": "/MochamadHalim/MyFamiliyTree/static/js/main.6549155b.chunk.js.map",
+    "runtime-main.js": "/MochamadHalim/MyFamiliyTree/static/js/runtime-main.1d3bccc7.js",
+    "runtime-main.js.map": "/MochamadHalim/MyFamiliyTree/static/js/runtime-main.1d3bccc7.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/MochamadHalim/MyFamiliyTree/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.74334acb.chunk.js": "/MochamadHalim/MyFamiliyTree/static/js/2.74334acb.chunk.js",
+    "static/js/2.74334acb.chunk.js.map": "/MochamadHalim/MyFamiliyTree/static/js/2.74334acb.chunk.js.map",
+    "index.html": "/MochamadHalim/MyFamiliyTree/index.html",
+    "precache-manifest.7a2fb5209b90760d4347e0e0db38cbd1.js": "/MochamadHalim/MyFamiliyTree/precache-manifest.7a2fb5209b90760d4347e0e0db38cbd1.js",
+    "service-worker.js": "/MochamadHalim/MyFamiliyTree/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/MochamadHalim/MyFamiliyTree/static/css/2.5c17b9f1.chunk.css.map",
+    "static/css/main.0df9e0f3.chunk.css.map": "/MochamadHalim/MyFamiliyTree/static/css/main.0df9e0f3.chunk.css.map",
+    "static/js/2.74334acb.chunk.js.LICENSE.txt": "/MochamadHalim/MyFamiliyTree/static/js/2.74334acb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a7a9abc.js",
+    "static/js/runtime-main.1d3bccc7.js",
     "static/css/2.5c17b9f1.chunk.css",
     "static/js/2.74334acb.chunk.js",
     "static/css/main.0df9e0f3.chunk.css",
-    "static/js/main.3ebc3d40.chunk.js"
+    "static/js/main.6549155b.chunk.js"
   ]
 }
