@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/family-tree-editor/static/css/main.0df9e0f3.chunk.css",
-    "main.js": "/family-tree-editor/static/js/main.3ebc3d40.chunk.js",
-    "main.js.map": "/family-tree-editor/static/js/main.3ebc3d40.chunk.js.map",
+    "main.js": "/family-tree-editor/static/js/main.0d2012b7.chunk.js",
+    "main.js.map": "/family-tree-editor/static/js/main.0d2012b7.chunk.js.map",
     "runtime-main.js": "/family-tree-editor/static/js/runtime-main.5a7a9abc.js",
     "runtime-main.js.map": "/family-tree-editor/static/js/runtime-main.5a7a9abc.js.map",
     "static/css/2.5c17b9f1.chunk.css": "/family-tree-editor/static/css/2.5c17b9f1.chunk.css",
     "static/js/2.74334acb.chunk.js": "/family-tree-editor/static/js/2.74334acb.chunk.js",
     "static/js/2.74334acb.chunk.js.map": "/family-tree-editor/static/js/2.74334acb.chunk.js.map",
     "index.html": "/family-tree-editor/index.html",
-    "precache-manifest.5cb391426bd5826a131cee8ad2b688a4.js": "/family-tree-editor/precache-manifest.5cb391426bd5826a131cee8ad2b688a4.js",
+    "precache-manifest.672431954d6de8b03d80622fca3196f3.js": "/family-tree-editor/precache-manifest.672431954d6de8b03d80622fca3196f3.js",
     "service-worker.js": "/family-tree-editor/service-worker.js",
     "static/css/2.5c17b9f1.chunk.css.map": "/family-tree-editor/static/css/2.5c17b9f1.chunk.css.map",
     "static/css/main.0df9e0f3.chunk.css.map": "/family-tree-editor/static/css/main.0df9e0f3.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.5c17b9f1.chunk.css",
     "static/js/2.74334acb.chunk.js",
     "static/css/main.0df9e0f3.chunk.css",
-    "static/js/main.3ebc3d40.chunk.js"
+    "static/js/main.0d2012b7.chunk.js"
   ]
 }
